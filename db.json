@@ -1,0 +1,61 @@
+{
+  "allVideos": [
+    {
+      "id": "9ab3",
+      "caption": "Nadikar",
+      "imgURL": "https://timesofindia.indiatimes.com/photo/101661651.cms",
+      "youtubeURL": "https://www.youtube.com/embed/A7y9yXGJtUs"
+    },
+    {
+      "id": "30f4",
+      "caption": "Avesham",
+      "imgURL": "https://s.yimg.com/fz/api/res/1.2/zJrr2kY68MNqL6YPqic_UQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0zODQ7cT04MDt3PTUxMg--/https://s.yimg.com/am/60d/c4f0c483b6492e97a4079f9ab4cd7270",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    }
+  ],
+  "history": [
+    {
+      "id": "fe7e",
+      "caption": "Premalu",
+      "youtubeURL": "https://www.youtube.com/embed/9-rkz2JuAxc",
+      "timeStamp": "4/30/2024, 8:52:13 AM GMT+4"
+    },
+    {
+      "id": "cbfb",
+      "caption": "Leo Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "4/30/2024, 8:52:15 AM GMT+4"
+    },
+    {
+      "id": "ed46",
+      "caption": "aadujeevitham",
+      "youtubeURL": "https://www.youtube.com/embed/qvsiJKdDxPs",
+      "timeStamp": "4/30/2024, 8:52:17 AM GMT+4"
+    },
+    {
+      "id": "4c97",
+      "caption": "Premalu",
+      "youtubeURL": "https://www.youtube.com/embed/9-rkz2JuAxc",
+      "timeStamp": "4/30/2024, 8:52:23 AM GMT+4"
+    },
+    {
+      "id": "2ad5",
+      "caption": "Aavesham",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "5/2/2024, 9:39:05 AM GMT+4"
+    },
+    {
+      "id": "9297",
+      "caption": "Avesham",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "5/6/2024, 9:03:17 AM GMT+4"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "5db4",
+      "categoryName": "trailers",
+      "allVideos": []
+    }
+  ]
+}
